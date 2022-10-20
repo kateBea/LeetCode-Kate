@@ -1,6 +1,6 @@
 # LeetCode Kate
 Repositorio con problemas de LeetCode resueltos por mí en diferentes lenguajes de programación
-Usar Makefile para compilar.
+Se puede usar el Makefile para compilar.
 
 Ejemplo de ejecución:
 
